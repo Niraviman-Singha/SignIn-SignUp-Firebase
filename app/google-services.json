@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624218084018",
+    "project_id": "ligin-registration-firebase",
+    "storage_bucket": "ligin-registration-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624218084018:android:0363eb6674dd2002d36fab",
+        "android_client_info": {
+          "package_name": "com.example.liginregistrationfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ3JtfcOQc1CoJrEqSswhAYIK5lYCRldo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
